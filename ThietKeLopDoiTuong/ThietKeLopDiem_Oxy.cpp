@@ -303,8 +303,8 @@ int main() {
 	cout << "Nhap toa do diem: ";
 	diem.Nhap();
 	
+	diem.Xuat();
 
 
-
-	return 0;
+	return 1;
 }
