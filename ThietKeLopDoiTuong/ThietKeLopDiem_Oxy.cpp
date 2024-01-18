@@ -346,5 +346,5 @@ int main()
 	
 	//Hello cai gi cung dc
 
-	return 0;
+	return 100;
 }
