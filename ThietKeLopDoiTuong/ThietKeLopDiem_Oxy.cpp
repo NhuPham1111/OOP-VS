@@ -333,6 +333,7 @@ CDiem CDiem::DoiXungPhanGiac2()
 
 CDiem::~CDiem()
 {
+	/// hello nhu cute
 	return;
 }
 
