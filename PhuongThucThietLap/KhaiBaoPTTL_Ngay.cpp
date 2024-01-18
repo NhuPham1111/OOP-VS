@@ -42,5 +42,9 @@ CNgay::CNgay(int ng, int thg, int nam) {
 
 int main() {
 
+	CNgay DD;
+	cout << "ngay";
+
+
 	return 1;
 }
