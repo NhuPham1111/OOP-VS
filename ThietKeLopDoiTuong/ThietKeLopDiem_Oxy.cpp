@@ -338,6 +338,7 @@ CDiem::~CDiem()
 
 int main()
 {
+	// Hello Nhu
 	CDiem diem;
 	cout << "Nhap toa do diem: ";
 	diem.Nhap();
