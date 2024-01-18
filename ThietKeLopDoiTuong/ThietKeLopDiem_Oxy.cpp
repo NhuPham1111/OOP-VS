@@ -343,8 +343,10 @@ int main()
 	CDiem diem;
 	cout << "Nhap toa do diem: ";
 	diem.Nhap();
-	
-	//Hello cai gi cung dc
+
+	// Hello cai gi cung dc
+	//  Hello from My's branch
+	cout << "Hello";
 
 	return 100;
 }
