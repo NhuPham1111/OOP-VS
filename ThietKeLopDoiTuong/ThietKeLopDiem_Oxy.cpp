@@ -343,6 +343,8 @@ int main()
 	CDiem diem;
 	cout << "Nhap toa do diem: ";
 	diem.Nhap();
+	
+	//Hello cai gi cung dc
 
 	return 0;
 }
