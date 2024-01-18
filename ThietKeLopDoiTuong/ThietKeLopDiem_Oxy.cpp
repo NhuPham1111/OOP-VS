@@ -346,6 +346,7 @@ int main()
 
 	// Hello cai gi cung dc
 	//  Hello from My's branch
+	cout << "Hello";
 
 	return 0;
 }
