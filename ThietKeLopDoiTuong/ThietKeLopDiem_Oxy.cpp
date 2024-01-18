@@ -339,7 +339,8 @@ CDiem::~CDiem()
 
 int main()
 {
-	// Hello Nhu
+	// Hello Nhu from My branch again
+	// This is the last topic of today lesson
 	CDiem diem;
 	cout << "Nhap toa do diem: ";
 	diem.Nhap();
